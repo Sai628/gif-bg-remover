@@ -1,0 +1,14 @@
+.DS_Store
+
+*.pyc
+*.swp
+.eggs/
+*.so
+__pycache__
+
+# IDE
+.vscode/
+.idea/
+
+venv/
+temp/
